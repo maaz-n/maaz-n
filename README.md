@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Maaz, full-stack developer. Open to remote roles." width="100%" />
+<img src="./banner.jpg" alt="Maaz, full-stack developer. Open to remote roles." width="100%" />
 
 <br />
 
@@ -15,7 +15,7 @@ Computer Science student from Pakistan, shipping real products for real clients.
 
 <br />
 
-<img src="./assets/divider.svg" alt="" width="100%" height="2" />
+<img src="./divider.svg" alt="" width="100%" height="2" />
 
 ## ~/about
 
@@ -60,22 +60,21 @@ const maaz = {
       <h3>Huddle</h3>
       <p>A multi-workspace task management app with role-based permissions enforced on the server, a review workflow, and an activity log.</p>
       <p><sub><code>REPLACE</code> <code>WITH</code> <code>STACK</code></sub></p>
-      <p><a href="https://YOUR-HUDDLE-LIVE-URL">Live demo</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/maaz-n/huddle">Source</a></p>
+      <p><a href="https://teamhuddle.vercel.app/">Live demo</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/maaz-n/huddle">Source</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Scribly</h3>
       <p>A modern blogging app built around a clean, distraction-free writing experience.</p>
       <p><sub><code>REPLACE</code> <code>WITH</code> <code>STACK</code></sub></p>
-      <p><a href="https://YOUR-SCRIBLY-LIVE-URL">Live demo</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/maaz-n/scribly">Source</a></p>
+      <p><a href="https://project-scribly.vercel.app/">Live demo</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/maaz-n/scribly">Source</a></p>
     </td>
   </tr>
 </table>
-> Writing about: REPLACE WITH YOUR CURRENT TOPIC on X and LinkedIn.
 
 <br />
 
-<img src="./assets/divider.svg" alt="" width="100%" height="2" />
+<img src="./divider.svg" alt="" width="100%" height="2" />
 
 <div align="center">
-  <sub>Open to remote opportunities. <a href="mailto:YOUR-EMAIL">Get in touch</a>.</sub>
+  <sub>Open to remote opportunities. <a href="mailto:justmaazkhan@gmail.com">Get in touch</a>.</sub>
 </div>
