@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/maaz-n/"><code>LinkedIn</code></a> &nbsp;·&nbsp;
 <a href="https://x.com/maaz_nm"><code>X / Twitter</code></a> &nbsp;·&nbsp;
-<a href="mailto:justmaazkhan@gmail.com"><code>justmaazkhan@gmail.com</code></a>
+<a href="mailto:justmaazkhan@gmail.com"><code>Get in touch</code></a>
 
 </div>
 
@@ -34,7 +34,7 @@ const maaz = {
 ## ~/stack
 
 <div align="center">
-  <img src="[https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,supabase,appwrite,vercel,git&theme=dark](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,supabase,appwrite,vercel,git&theme=dark)" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,supabase,appwrite,vercel,git&theme=dark" alt="Tech Stack" />
 </div>
 
 <br />
