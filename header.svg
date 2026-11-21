@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <defs>
+    
+    <pattern id="dot-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#7d8590" fill-opacity="0.22" />
+    </pattern>
+
+    
+    <radialGradient id="fade-mask-grad" cx="50%" cy="50%" r="50%">
+      <stop offset="35%" stop-color="#ffffff" stop-opacity="1" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </radialGradient>
+
+    <mask id="grid-mask">
+      <rect width="800" height="200" fill="url(#fade-mask-grad)" />
+    </mask>
+  </defs>
+
+  <style>
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+    }
+    .prompt {
+      fill: #58a6ff;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+    }
+    .name {
+      fill: #8b949e;
+      font-size: 46px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+    /* High-contrast light fill that pops on GitHub dark mode */
+    @media (prefers-color-scheme: dark) {
+      .name { fill: #f0f6fc; }
+    }
+    @media (prefers-color-scheme: light) {
+      .name { fill: #1f2328; }
+    }
+    .role {
+      fill: #7d8590;
+      font-size: 16px;
+      font-weight: 500;
+      letter-spacing: 0.03em;
+    }
+    .accent {
+      fill: #58a6ff;
+    }
+    .cursor {
+      fill: #58a6ff;
+      animation: blink 1.1s step-end infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+
+  
+  <rect width="800" height="200" fill="url(#dot-grid)" mask="url(#grid-mask)" />
+
+  
+  <path d="M 32 48 L 32 32 L 48 32" fill="none" stroke="#7d8590" stroke-opacity="0.35" stroke-width="1.5" />
+  <path d="M 768 48 L 768 32 L 752 32" fill="none" stroke="#7d8590" stroke-opacity="0.35" stroke-width="1.5" />
+  <path d="M 32 152 L 32 168 L 48 168" fill="none" stroke="#7d8590" stroke-opacity="0.35" stroke-width="1.5" />
+  <path d="M 768 152 L 768 168 L 752 168" fill="none" stroke="#7d8590" stroke-opacity="0.35" stroke-width="1.5" />
+
+  
+  <text x="400" y="58" text-anchor="middle" class="mono prompt">~/maaz-n/whoami</text>
+
+  
+  <text x="400" y="112" text-anchor="middle" class="mono name">Maaz</text>
+
+  
+  <text x="400" y="148" text-anchor="middle" class="mono role">
+    <tspan class="accent">&gt;</tspan> AI Systems &amp; Full-Stack Engineer<tspan class="cursor">_</tspan>
+  </text>
+</svg>
