@@ -8,8 +8,8 @@
 
 <br />
 
-<a href="[https://www.linkedin.com/in/maaz-n/](https://www.linkedin.com/in/maaz-n/)"><code>LinkedIn</code></a> &nbsp;·&nbsp;
-<a href="[https://x.com/maaz_nm](https://x.com/maaz_nm)"><code>X / Twitter</code></a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/maaz-n/"><code>LinkedIn</code></a> &nbsp;·&nbsp;
+<a href="https://x.com/maaz_nm"><code>X / Twitter</code></a> &nbsp;·&nbsp;
 <a href="mailto:justmaazkhan@gmail.com"><code>justmaazkhan@gmail.com</code></a>
 
 </div>
@@ -56,7 +56,7 @@ const maaz = {
         <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Tailwind CSS</code> <code>Zustand</code> <code>Zod</code>
       </p>
       <p>
-        <a href="[https://smileperkscanada.ca/](https://smileperkscanada.ca/)">Live site ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <sub>Private repository (client work)</sub>
+        <a href="https://smileperkscanada.ca/">Live site ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <sub>Private repository (client work)</sub>
       </p>
     </td>
   </tr>
@@ -68,7 +68,7 @@ const maaz = {
         <code>Next.js</code> <code>TypeScript</code> <code>Appwrite</code> <code>Tailwind CSS</code>
       </p>
       <p>
-        <a href="[https://teamhuddle.vercel.app/](https://teamhuddle.vercel.app/)">Live demo ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="[https://github.com/maaz-n/huddle](https://github.com/maaz-n/huddle)">Source ↗</a>
+        <a href="https://teamhuddle.vercel.app/">Live demo ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/maaz-n/huddle">Source ↗</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -78,7 +78,7 @@ const maaz = {
         <code>Next.js</code> <code>TypeScript</code> <code>Neon</code> <code>Drizzle</code>
       </p>
       <p>
-        <a href="[https://project-scribly.vercel.app/](https://project-scribly.vercel.app/)">Live demo ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="[https://github.com/maaz-n/scribly](https://github.com/maaz-n/scribly)">Source ↗</a>
+        <a href="https://project-scribly.vercel.app/">Live demo ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/maaz-n/scribly">Source ↗</a>
       </p>
     </td>
   </tr>
