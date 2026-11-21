@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Maaz, full-stack developer. Open to remote roles." width="100%" />
+<img src="./banner.svg" alt="Maaz, full-stack developer. Open to remote roles." width="100%" />
 
 <br />
 
@@ -9,7 +9,7 @@ Computer Science student from Pakistan, shipping real products for real clients.
 
 <br />
 
-[**Portfolio**](https://YOUR-PORTFOLIO-URL)&nbsp;&nbsp;&nbsp;&nbsp;[**LinkedIn**](https://linkedin.com/in/YOUR-HANDLE)&nbsp;&nbsp;&nbsp;&nbsp;[**X**](https://x.com/YOUR-HANDLE)&nbsp;&nbsp;&nbsp;&nbsp;[**Email**](mailto:YOUR-EMAIL)
+[**LinkedIn**](https://www.linkedin.com/in/maaz-n/)&nbsp;&nbsp;&nbsp;&nbsp;[**X**](https://x.com/maaz_nm)&nbsp;&nbsp;&nbsp;&nbsp;[**Email**](mailto:justmaazkhan@gmail.com)
 
 </div>
 
@@ -52,7 +52,7 @@ const maaz = {
       <h3>SmilePerks</h3>
       <p>A multi-clinic management platform built for a real client and live in production. It supports dentists, chiropractors, opticians, and other clinic types, with separate admin, clinic, and patient dashboards, appointment and referral management, and a reward-claims system.</p>
       <p><sub><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Tailwind CSS</code> <code>Zustand</code> <code>Zod</code></sub></p>
-      <p><a href="https://YOUR-SMILEPERKS-LIVE-URL">Live site</a>&nbsp;&nbsp;&nbsp;<a href="https://YOUR-CASE-STUDY-URL">Case study</a>&nbsp;&nbsp;&nbsp;<sub>Private repo (client work)</sub></p>
+      <p><a href="https://smileperkscanada.ca/">Live site</a>&nbsp;&nbsp;&nbsp;<sub>Private repo (client work)</sub></p>
     </td>
   </tr>
   <tr>
@@ -70,10 +70,6 @@ const maaz = {
     </td>
   </tr>
 </table>
-
-## ~/now
-
-> Building: REPLACE WITH WHAT YOU ARE WORKING ON.
 > Writing about: REPLACE WITH YOUR CURRENT TOPIC on X and LinkedIn.
 
 <br />
