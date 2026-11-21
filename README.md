@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./banner.jpg" alt="Maaz, full-stack developer. Open to remote roles." width="100%" />
+<img src="./banner.jpg" alt="Maaz, full-stack developer. Open to remote roles." width="70%" />
 
 <br />
 
-**I build production-ready web apps with Next.js and TypeScript.**<br />
-Computer Science student from Pakistan, shipping real products for real clients.
+**I build production-ready web apps.**<br />
+Computer Science student, shipping real products for real clients.
 
 <br />
 
