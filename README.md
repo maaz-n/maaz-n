@@ -87,7 +87,7 @@ const maaz = {
 ## ~/activity
 
 <div align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=maaz-n&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9](https://github-readme-streak-stats.herokuapp.com/?user=maaz-n&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maaz-n&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <br />
